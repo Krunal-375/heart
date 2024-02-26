@@ -1,0 +1,4 @@
+0 Normal
+1 Murmur
+2 Extrasystole
+3 Estrahls
